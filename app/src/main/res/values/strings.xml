@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="my_string">horse</string>
+    <string name="app_name">Android Tutorial App</string>
+    <string name="my_string">pig</string>
 </resources>
